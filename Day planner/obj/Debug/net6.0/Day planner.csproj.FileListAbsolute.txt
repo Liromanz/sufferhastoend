@@ -1,0 +1,30 @@
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\bin\Debug\net6.0\Day planner.exe
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\bin\Debug\net6.0\Day planner.deps.json
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\bin\Debug\net6.0\Day planner.runtimeconfig.json
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\bin\Debug\net6.0\Day planner.dll
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\bin\Debug\net6.0\Day planner.pdb
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.csproj.AssemblyReference.cache
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.AssemblyInfoInputs.cache
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.AssemblyInfo.cs
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.csproj.CoreCompileInputs.cache
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.dll
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\refint\Day planner.dll
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.pdb
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\Day planner.genruntimeconfig.cache
+C:\Users\Mann\source\repos\mann\Day planner\Day planner\obj\Debug\net6.0\ref\Day planner.dll
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.csproj.AssemblyReference.cache
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.AssemblyInfoInputs.cache
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.AssemblyInfo.cs
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.dll
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\refint\Day planner.dll
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.pdb
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\bin\Debug\net6.0\Day planner.exe
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\bin\Debug\net6.0\Day planner.deps.json
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\bin\Debug\net6.0\Day planner.runtimeconfig.json
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\bin\Debug\net6.0\Day planner.dll
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\bin\Debug\net6.0\Day planner.pdb
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\Day planner.genruntimeconfig.cache
+C:\Users\kiss_\source\repos\helpmeimsuffering\Day planner\obj\Debug\net6.0\ref\Day planner.dll
